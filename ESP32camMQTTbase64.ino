@@ -2,7 +2,7 @@
 #include <WiFi.h>
 #include <PubSubClient.h>
 #include <esp_camera.h>
-#include "Base64.h"
+#include "base64.h"
 const char* ssid = "REPLACE";
 const char* password = "REPLACE";
 
